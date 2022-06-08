@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ResolucaoExercicio20210401</string>
+    <string name="ementa_de_hoje">Ementa de hoje</string>
+    <string name="linha1" translatable="false">linha</string>
+    <string name="inicia_em">Inicia em %s</string>
+    <string name="termina_em">Termina em %1$s</string>
+    <string name="iniciada_as">Iniciada ás %1$d (%2$d)</string>
+    <string name="sopa">Sopa</string>
+    <string name="pratoCarne">Prato Carne</string>
+    <string name="pratoPeixe">Prato Peixe</string>
+    <string name="sobremesa">Sobremesa</string>
+    <string name="sair">Sair</string>
+</resources>
